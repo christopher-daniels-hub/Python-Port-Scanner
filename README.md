@@ -52,7 +52,7 @@ The following screenshot shows the Python port scanner created in Nano.
 
 The scanner identified open ports 22, 135, and 445 on the authorized Windows Server.
 
-![Port scanner results](screenshots/port-scanner-results.png)
+![Port scanner results](port-scanner-results.png)
 
 ## Skills Demonstrated
 
